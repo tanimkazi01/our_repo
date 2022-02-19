@@ -5,7 +5,6 @@ copyInput=int(input)
 num1 = input%10 
 input = input//10                 
 num2= input%10
-input= input//10
 
 num3=input
 
